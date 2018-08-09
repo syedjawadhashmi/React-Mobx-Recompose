@@ -1,2 +1,1 @@
-# React-Mobx-Recompose
-A react based todo application
+A react and mobx base application
